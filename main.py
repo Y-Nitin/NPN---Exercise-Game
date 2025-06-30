@@ -11,7 +11,7 @@ from FlappyBird import play_flappy_bird
 
 os.environ["SDL_VIDEO_CENTERED"] = '1'
 pg.init()
-pg.display.set_caption('Computer Vision Exercise Game')
+pg.display.set_caption('Computer Vision Exercise Game - NPN')
 
 
 RED = (255,0,0)
